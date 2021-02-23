@@ -1,6 +1,6 @@
 <mvc:View xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="anubhav.app.controller.View1"
 	xmlns:html="http://www.w3.org/1999/xhtml">
-	<Page title="View 1">
+	<Page title="Master View">
 		<content>
 			<!--<Button text="Go To Next" press="onNext"></Button>-->
 			<SearchField id="idSearch" search="onSearch" liveChange="onSearch"></SearchField>
